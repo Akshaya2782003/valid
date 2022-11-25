@@ -1,0 +1,57 @@
+label
+{
+    padding-right: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.formBox
+{
+    padding: 50px 150px;
+    border-color: black;
+    margin: 4px 0px;
+    border: 5px solid  rgba(47, 45, 201, 0.186);
+    border-radius: 15px;box-shadow: 10px;
+    align-content: center;
+    background-color: #ddf360;
+    display: inline-block;
+}
+.button
+{
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(71, 71, 224);
+    border-color:rgba(47, 45, 201, 0.186) ;
+    box-shadow: inset;
+}
+.button:hover
+{
+    border-color:rgba(47, 45, 201, 0.186) ;
+}
+h3{
+    margin-top: 0px;
+}
+.formPage
+{
+    margin-top: 50px;
+}
+.head{
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 20px;
+}
+input
+{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
+.errorMsg
+{
+    color: red;
+}
+input:active
+{
+    border-color: red;
+}
